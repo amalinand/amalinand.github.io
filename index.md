@@ -6,7 +6,9 @@ layout: default
 
 I recently obtained my M.Eng. in Industrial Engineering from Kumoh National Institute of Technology, South Korea, where I was advised by Professor Heungjo An. Previously, I earned my B.Eng. in Industrial Engineering from Maranatha Christian University, Indonesia.
 
-My research focuses on data-driven decision-making under uncertainty, with an emphasis on multi-objective optimization and interpretability in healthcare systems. During my master’s studies, I developed a unified modeling pipeline for prediction and control decision-making in double-booking strategies for outpatient scheduling. My undergraduate thesis focused on designing risk mitigation strategies for blood supply chains.
+My research focuses on data-driven decision-making under uncertainty, with an emphasis on multi-objective optimization and interpretability in healthcare systems. 
+
+During my master’s studies, I developed a unified modeling pipeline for prediction and control decision-making in double-booking strategies for outpatient scheduling. My undergraduate thesis focused on designing risk mitigation strategies for blood supply chains in local blood bank. 
 
 ---
 
