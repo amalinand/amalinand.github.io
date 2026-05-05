@@ -1,4 +1,7 @@
 ---
+layout: default
+---
+
 # About
 
 I recently obtained my M.Eng. in Industrial Engineering from Kumoh National Institute of Technology, South Korea, where I was advised by Professor Heungjo An. Previously, I earned my B.Eng. in Industrial Engineering from Maranatha Christian University, Indonesia.
@@ -6,6 +9,7 @@ I recently obtained my M.Eng. in Industrial Engineering from Kumoh National Inst
 My research focuses on data-driven decision-making under uncertainty, with an emphasis on multi-objective optimization and interpretability in healthcare systems. During my master’s studies, I developed a unified modeling pipeline for prediction and control decision-making in double-booking strategies for outpatient scheduling. My undergraduate thesis focused on designing risk mitigation strategies for blood supply chains.
 
 ---
+
 # Education
 
 **M.Eng. in Industrial Engineering**  
@@ -19,12 +23,14 @@ September 2018 – August 2022
 CGPA: 3.92/4.0
 
 ---
+
 # Research Interests
 
 **Methodology:** Machine Learning, Reinforcement Learning, Multi-Objective Optimization  
 **Applications:** Healthcare Management, Supply Chain Management
 
 ---
+
 # Publications
 
 **Adaptive Double-Booking Strategy for Outpatient Scheduling Using Multi-Objective Reinforcement Learning**  
