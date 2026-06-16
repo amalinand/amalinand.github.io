@@ -6,7 +6,7 @@ layout: default
 
 I recently obtained my M.Eng. in Industrial Engineering from Kumoh National Institute of Technology, South Korea, where I was advised by Professor Heungjo An. Previously, I earned my B.Eng. in Industrial Engineering from Maranatha Christian University, Indonesia.
 
-My research focuses on data-driven decision-making under uncertainty, with an emphasis on multi-objective optimization and interpretability in healthcare systems. 
+My research focuses on data-driven decision-making under uncertainty, with an emphasis on multi-objective optimization, interpretability, and human-centered design in healthcare systems.
 
 During my master’s studies, I developed a unified modeling pipeline for prediction and control decision-making in double-booking strategies for outpatient scheduling. My undergraduate thesis focused on designing risk mitigation strategies for blood supply chains in local blood bank. 
 
@@ -41,7 +41,7 @@ NN Amalina, H An
 
 **A Multi-Head Attention Soft Random Forest for Interpretable Patient No-Show Prediction**  
 NN Amalina, H An  
-*arXiv preprint arXiv:2505.17344*, 2025
+*Systems 2026, 14(5), 576; https://doi.org/10.3390/systems14050576*
 
 **Desain Mitigasi Risiko Rantai Pasok Darah Menggunakan Pendekatan Baru**  
 RM Heryanto, DT Liputra, V Arisandhy, NN Amalina  
