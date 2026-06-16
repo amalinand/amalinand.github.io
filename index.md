@@ -45,8 +45,8 @@ NN Amalina, H An
 
 **Desain Mitigasi Risiko Rantai Pasok Darah Menggunakan Pendekatan Baru**  
 RM Heryanto, DT Liputra, V Arisandhy, NN Amalina  
-*Jurnal Rekayasa Sistem Industri*, 13(2), 143–156, 2024
+*Jurnal Rekayasa Sistem Industri, 13(2), 143–156, 2024; https://doi.org/10.26593/jrsi.v13i2.7326.143-156*
 
 **Analisis Penyebab Risiko pada Rantai Pasok Darah di Masa Pandemi COVID-19 Menggunakan Model Supply Chain Operations Reference (SCOR) dan Failure Modes and Effects Analysis (FMEA)**  
 NN Amalina, DT Liputra, RM Heryanto  
-*JISI: Jurnal Integrasi Sistem Industri*, 11(1), 65–76
+*JISI: Jurnal Integrasi Sistem Industri, 11(1), 65–76; https://doi.org/10.24853/jisi.11.1.65-76*
